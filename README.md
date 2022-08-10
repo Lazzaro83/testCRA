@@ -32,11 +32,11 @@ This application after the following coding interview should have the following:
     - Each post should be in a separate distinctive "card". For this you can use any of the popular UI libraries or none at all.
 2. `Search Screen` should appear after you have inserted and submitted a post title or author's name with filtered posts that match searched criteria. If no a single post matches search criteria, friendly user message should appear on that screen.
 3. **If there is time** [CRUD](https://www.freecodecamp.org/news/crud-operations-explained/) operations should be implemented for this API.
-    - First one to be implemented is DELETE operation. Make sure not to remove post from the list of posts only after successful deletion response from the API
+    - First one to be implemented is DELETE operation. Make sure to remove post from the list of posts only after successful deletion response from the API
     - Second one should be POST. Data for post should come from form that needs to be created as a separate component(s). If this form should appear as a modal on the `Home screen` or on `Individual post` screen is up to you.
     - Order of other operations and how should they be represented in UI is up to you.
 
 ## Important info:
-Implementing requirements number 1 and 2 are a must in order to complete this task. What is placed under requirement number 3 is just in case you have time, but you should focus mainly on completing first two tasks. **You have a right to install any additional dependencies either as a development dependency or as a "project" dependency**
+Implementing requirements number 1 and 2 is a **must** in order to complete this task. What is placed under requirement number 3 is just in case you have time, but you should focus mainly on completing first two tasks. **You have a right to install any additional dependencies either as a development dependency or as a "project" dependency**
 
 # Good luck!!!
